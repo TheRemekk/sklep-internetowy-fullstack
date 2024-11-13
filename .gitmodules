@@ -1,3 +1,6 @@
 [submodule "sklep-internetowy-fe"]
 	path = sklep-internetowy-fe
 	url = https://github.com/TheRemekk/sklep-internetowy-fe
+[submodule "sklep-internetowy-be"]
+	path = sklep-internetowy-be
+	url = https://github.com/TheRemekk/sklep-internetowy-be
