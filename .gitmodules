@@ -1,0 +1,3 @@
+[submodule "sklep-internetowy-fe"]
+	path = sklep-internetowy-fe
+	url = https://github.com/TheRemekk/sklep-internetowy-fe
